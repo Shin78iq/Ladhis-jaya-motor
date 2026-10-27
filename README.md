@@ -18,3 +18,5 @@ Buka file `index.html` di browser.
 ## Kontributor
 - GWEH(Normal Guy)
 - Fahri Abinaya
+<br>
+ini cuman buat tugas jadi gak di publish tapi ada chance sihhh buat di publish :3
