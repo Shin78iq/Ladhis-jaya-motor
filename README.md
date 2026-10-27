@@ -4,6 +4,8 @@ Website bengkel Ladhis Jaya Motor, melayani servis motor dan cuci motor.
 
 ## Halaman
 index, tentang, layanan produk, galeri, kontak
+<br>
+<img src="<img width="1672" height="941" alt="Background_utama" src="https://github.com/user-attachments/assets/75b9aa54-adb7-473f-8e7a-00e1ade6742f" />
 
 ## Teknologi
 HTML5 dan CSS
